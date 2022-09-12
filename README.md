@@ -23,6 +23,6 @@ ORDER BY
   
 <img width="417" alt="Screen Shot 2022-09-12 at 12 41 47 PM" src="https://user-images.githubusercontent.com/97905607/189711068-ee16d44a-4ecd-43cb-9252-5b010e2a4d6b.png">
 
-After the data had been cleaned and explored I imported it into Tableau for further analysis and visualization. Full results can be found here [Tableau link](https://public.tableau.com/shared/4DZ8KBQKM?:display_count=n&:origin=viz_share_link)
+After the data had been cleaned and explored I imported it into Tableau for further analysis and visualization. Full results can be found here [Tableau link](https://public.tableau.com/views/SalesDataAnalysis_16630019393900/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![Sales_Project_Dashboard](https://user-images.githubusercontent.com/97905607/189713733-00dc06ed-eee5-4be4-b98b-5f769206d636.png)
 
