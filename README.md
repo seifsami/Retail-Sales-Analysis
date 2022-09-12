@@ -1,4 +1,4 @@
-# Sales-Data-Analysis
+# Retail Sales Data Analysis
 
 Description: Using SQL and Tableau to explore,analyize and visualize a dataset regarding sales information.
 
