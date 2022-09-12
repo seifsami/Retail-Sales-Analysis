@@ -1,9 +1,17 @@
-/* First exploring the nature of the data and what countries are in the dataset */
+/* First exploring the dataset. */
+SELECT * 
+FROM sales_data;
+
+/* Row ID column is redundant, so will be dropping this. */
+ALTER TABLE sales_data
+  DROP COLUMN row_ID;
+
+/* Next, exploring the country column. */
 
 SELECT DISTINCT country
 FROM sales_data;
 
-/* This only returned the US so I then dropped the country column*/
+/* United States is the only country, so we can drop the country column. */
 ALTER TABLE sales_data
   DROP COLUMN country;
 
